@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Amita');
+
+body{
+    background-color: lavender;  
+    background-image: url(pictures/mountain.png);
+    background-repeat:no-repeat;
+    background-position:top center;
+    background-size: 50%;
+}
+.profile{
+    background-color: rgba(255, 0, 255, 0.2);
+    padding: 150px 0px;
+    font-family: 'Amita', cursive;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.profile img {
+    float: left;
+    margin-left: 5%;
+}
+.profile h2{
+    font-size: xx-large;
+}
+.profile p {
+    background-color: rgba(255, 0, 255, 0.9);
+}
+
+hr{
+    margin: 0;
+    height: 5px;
+    color: red;
+}

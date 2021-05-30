@@ -1,0 +1,45 @@
+
+
+body{
+   background-image: url(háttérkép4.jpg);
+   background-attachment: fixed;
+   
+}
+
+.hobbi{
+   text-align: center;
+   background-color: darkolivegreen;
+}
+
+.hobbi a{
+   color: black;
+   font-weight: bolder;
+}
+
+.kepekinsta h3{
+   text-align: center;
+   background-color: darkolivegreen;
+}
+
+.kenyeres1 img{
+   height: 15cm;
+   width: 15cm;
+   border-radius: 20%;
+   float: left;
+   
+}
+
+.kenyeres2 img{
+   height: 15cm;
+   width: 15cm;
+   border-radius: 30%;
+   margin-left: 5cm;
+}
+
+.normafa img{
+   border-radius: 30%;
+   margin-top: 1cm;
+   margin-left: 0px;
+   margin-right: 0px;
+
+}

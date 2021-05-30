@@ -1,0 +1,29 @@
+body{
+    background-image: url(háttérkép3.jpg);
+    background-attachment: fixed;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.kikapcsolodas{
+    text-align: center;
+    background-color: coral;
+}
+
+.kenyereskep{
+    float: left;
+}
+
+.kenyereskep img{
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.templomkep img{
+    border-radius: 50%;
+    
+}
+
+.templomkep p{
+    text-align: right;
+    background-color: khaki;
+}

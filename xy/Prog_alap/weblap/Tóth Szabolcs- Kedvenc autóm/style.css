@@ -1,0 +1,11 @@
+.card{
+    float: left;
+    margin-left: 100px;
+    margin-top: 15px;
+  
+}
+
+.kepek img{
+    padding: 20px;
+    border: 2px solid;
+}

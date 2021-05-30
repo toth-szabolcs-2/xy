@@ -1,0 +1,108 @@
+
+
+    body{
+
+    background-image: url(háttérkép2.jpg);
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+    background-position:top;
+    background-color: #839b97;
+    font-family: Georgia, 'Times New Roman', Times, serif
+
+
+    }
+    
+    nav ul{
+        list-style-type: none;
+        background-color: #393e46;
+        margin: 0px;
+        padding: 30px;
+        
+    }
+
+    nav ul li{
+        border-bottom: 1px dashed white;
+    }
+
+    nav a{
+        color: white;
+        text-decoration: none;
+        display:block;
+        padding: 15px 0;
+        
+    }
+
+    nav a:hover{
+    padding: 15px;
+    background: gray;
+        
+        
+    }
+  
+    .profile {
+        background: grey;
+        text-align: center;
+        padding: 10px;
+        margin: 10px;
+        border-width: 15px;
+        border-style: solid;
+        border-color: red;
+        background-image: url(háttérkép1.jpg);
+        
+        
+    }
+
+    nav{
+        width: 25%;
+        float: left;
+    }
+
+    .szabadidö {
+        text-align: right;
+        color: white ;
+        text-align: center;
+        background-color: grey;
+        margin-right: 350px;
+        margin-left: 350px;
+        
+        }
+
+
+
+    .magamrol {
+        text-align: center;
+        color: white;
+        background-color: grey;
+        text-align: center;
+        margin-left: 100px;
+        margin-right: 100px;
+        
+      
+        }
+
+        .zenehallgatas{
+            background-color: gray;
+            color: white;
+            text-align: center;
+        }
+
+        .zenehallgatas a{
+            color: white;
+            font-weight: bolder;
+            
+        }
+
+        .inf-erdeklodesi-irany{
+            background-color: gray;
+            color: white;
+            text-align: center;
+        }
+
+        
+
+    
+
+    
+        
+
+   
